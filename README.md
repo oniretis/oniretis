@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Samuel 
-- 👀 I’m interested in creative development...
-- 🌱 I’m currently learning React.js
+- 👀 React, Nextjs, React Native, C++, Rust 🌱
 - 💞️ I’m looking to collaborate on open source projets
-- 📫 How to reach me ...
+
 
 <!---
 oniretis/oniretis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
